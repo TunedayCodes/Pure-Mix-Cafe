@@ -69,8 +69,20 @@ body {
  }
 
  a {
-   text-decoration: none;
-   color: black;
-   font-style: italic;
-   font-size: 15px;
+  text-decoration: none;
+  color: black;
+  font-style: italic;
+  font-size: 15px;
+}
+
+ a:visited {
+  color: grey;
  }
+
+ a:hover {
+  color: brown;
+ }
+
+ 
+
+ 
