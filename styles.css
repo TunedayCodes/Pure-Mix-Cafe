@@ -83,6 +83,10 @@ body {
   color: brown;
  }
 
+ img {
+  display: block;
+  margin: auto;
+ }
  
 
  
