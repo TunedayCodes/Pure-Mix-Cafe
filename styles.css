@@ -87,6 +87,15 @@ body {
   display: block;
   margin: auto;
  }
+
+ /* Media Queries */
+
+/* Small devices (portrait tablets and large phones) */
+@media screen and (max-width: 767px) {
+  footer p {
+    margin-top: 40px;
+  }
+}
  
 
  
